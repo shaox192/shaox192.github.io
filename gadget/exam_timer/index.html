@@ -29,6 +29,7 @@
         }
         .timer-setup, .instructions-container {
             margin: 20px 0;
+            text-align: left;
         }
         input {
             width: 60px;
@@ -51,6 +52,9 @@
             background: #e3f2fd;
             padding: 10px;
             border-left: 5px solid #2196F3;
+        }
+        button#instructions-btn {
+            margin-top: 10px; /* Adjust this value to move it further down */
         }
         textarea {
             width: 100%;
@@ -80,9 +84,10 @@
         <div class="instructions-container">
             <h2>Exam Instructions</h2>
             <div id="instructions-display" style="display:none;"></div>
-            <textarea id="instructions-input">1. Read all questions carefully.
-2. Do not refresh this page.
-3. Submit your answers before the timer ends.</textarea>
+            <textarea id="instructions-input">
+                1. Read all questions carefully.
+                2. Submit your exam paper before the time ends.
+            </textarea>
             <button id="instructions-btn" onclick="toggleInstructions()">Done</button>
         </div>
     </div>
