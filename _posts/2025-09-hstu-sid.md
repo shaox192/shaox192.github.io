@@ -1,0 +1,13 @@
+---
+title: 'Enriching Generative Recommendation with Semantic IDs'
+date: 2025-09-08
+permalink: /posts/2025/09/hstu-sid/
+tags:
+  - Generative recommendation
+  - HSTU
+  - Semantic ID
+---
+
+Still working on it :computer:. Coming soon.
+
+See this released github code [here](https://github.com/shaox192/hstu-semantic-id)
