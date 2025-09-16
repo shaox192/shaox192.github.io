@@ -21,8 +21,8 @@ Education
 Research & Work experience
 ======
 * **Summer 2025: Machine Learning Intern @YUANQI, NetEase**
-  * Improved generative recommendation model performance by integrating semantic IDs and optimized training/inference speed through infrastructure improvements and kernel optimization with Triton.
-  * Kept playing with Semantic ID outside work on public data&model for fun - see my blog [here]({{ base_path }}/posts/2025/09/hstu-sid/)
+  * Improved generative recommendation model performance by instilling semantic knowledge and optimized training/inference speed through infrastructure improvements and kernel optimization with Triton.
+  * (I kept on to play with recommendation systems outside work on public data&model for fun - see my blog [here]({{ base_path }}/posts/2025/09/hstu-sid/))
 
 * **Summer 2024: Visiting Research Scholar @Stanford Trustworthy AI Research (STAIR), Stanford**
   * Led human-inspired AI projects to improve DNN adversarial robustness and develop generative models for brain activity simulation leveraging large-scale datasets.
